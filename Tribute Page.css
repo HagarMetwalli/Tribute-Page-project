@@ -1,0 +1,36 @@
+main{
+    background:rgb(243, 241, 241) ;
+   
+}
+
+
+#title{
+    text-align: center;
+    font-family: monospace;
+    font-size: 30px;
+    font: bold;
+    padding-top: 3%;
+}
+p{
+    text-align: center;
+    font-size: 18px;
+}
+#img-div{
+    text-align: center;
+    margin-bottom: 50px;
+    background-repeat: no-repeat;
+   
+   background-color: white;
+}
+
+h2{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 20px;
+    font: bold;
+    padding-left: 30%;
+}
+ul{
+    padding-left: 31%;
+    font-size: 18px;
+    font-family:sans-serif;
+}
